@@ -161,3 +161,5 @@ app.get("/balance", (req, res) => {
 
 
 app.listen(3333)
+
+console.log("É isso ai");
